@@ -25,7 +25,6 @@
    - [Настройки](#settings)
      - [24/7](#always)
      - [Admin Mode](#adminmode)
-     - 
 # Функции
 
 <a name="function"></a>
